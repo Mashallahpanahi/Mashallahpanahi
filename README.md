@@ -29,6 +29,7 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -44,15 +45,34 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 * ✅ Full-Stack Web Applications
 ---
 
-## 🌐 Connect With Me
+---
 
-* 📍 **Location:** Kabul, Afghanistan
-* 📧 **Email:** [mashallahpanahi44@gmail.com](mailto:mashallahpanahi44@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/mashallah-panahi-95b49931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-* 🌍 **Portfolio:** https://portfolio1-omega-livid.vercel.app
-* 💬 **WhatsApp:** https://wa.me/93771464328
-* 📞 **Phone:** tel:0771464328
-* 💻 **GitHub:** https://github.com/mashallahpanahi
+## 🤝 Connect with Me
 
+<p align="left">
 
- Always learning, building, and improving.
+<a href="https://www.linkedin.com/in/mashallah-panahi-95b49931b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio1-omega-livid.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:mashallahpanahi44@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mashallahpanahi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/93771464328">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="tel:0771464328">
+<img src="https://img.shields.io/badge/Phone-0A66C2?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+</a>
+
+</p>
