@@ -63,15 +63,5 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 * 📞 **Phone:** tel:0771464328
 * 💻 **GitHub:** https://github.com/mashallahpanahi
 
----
-
-### 💻 Favorite Stack
-
-```
-Frontend: React • Next.js • Tailwind CSS • JavaScript
-Backend : NestJS • Node.js • PostgreSQL • PHP
-```
-
----
 
 ⭐ Always learning, building, and improving.
