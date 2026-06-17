@@ -4,11 +4,11 @@
 
 I am a passionate **Full-Stack Developer** focused on building scalable, modern, and high-performance web applications.
 
-💡 Specialized in **NestJS** and **PostgreSQL** for backend development.
+ Specialized in **NestJS** and **PostgreSQL** for backend development.
 
 ---
 
-## 🛠 Frontend Skills
+##  Frontend Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,7 +21,7 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 
 ---
 
-## ⚙️ Backend Skills
+##  Backend Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
