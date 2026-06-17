@@ -42,15 +42,6 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 * ✅ Real-Time Applications (Socket.IO)
 * ✅ TypeScript & Clean Architecture
 * ✅ Full-Stack Web Applications
-
----
-
-##  GitHub Stats
-
-![Mashallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashallahpanahi\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashallahpanahi\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect With Me
