@@ -71,8 +71,8 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="tel:0771464328">
-<img src="https://img.shields.io/badge/Phone-0A66C2?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+<a href="tel:+93771464328">
+  <img src="https://img.shields.io/badge/Phone-Contact%20Me-0A66C2?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
 
 </p>
