@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer
 
-I am a passionate Full-Stack Developer focused on building scalable, modern, and high-performance web applications.
+I am a passionate **Full-Stack Developer** focused on building scalable, modern, and high-performance web applications.
 
 💡 Specialized in **NestJS** and **PostgreSQL** for backend development.
 
@@ -27,20 +27,20 @@ I am a passionate Full-Stack Developer focused on building scalable, modern, and
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 ## 🎯 Professional Expertise
 
-* ✅ NestJS Backend Development
-* ✅ PostgreSQL Database Design
-* ✅ RESTful APIs
-* ✅ Authentication & Authorization (JWT)
+* ✅ NestJS Backend Development (Advanced)
+* ✅ PostgreSQL Database Design & Optimization
+* ✅ RESTful API Development
+* ✅ Authentication & Authorization (JWT, Guards, Roles)
 * ✅ Real-Time Applications (Socket.IO)
-* ✅ TypeScript Development
+* ✅ TypeScript & Clean Architecture
 * ✅ Full-Stack Web Applications
 
 ---
@@ -55,18 +55,23 @@ I am a passionate Full-Stack Developer focused on building scalable, modern, and
 
 ## 🌐 Connect With Me
 
-* 📍 Kabul, Afghanistan
-* 📧 [mashallahpanahi44@gmail.com](mailto:mashallahpanahi44@gmail.com)
-* 💼 LinkedIn: Add your LinkedIn URL here
-* 🌍 Portfolio: Add your Portfolio URL here
+* 📍 **Location:** Kabul, Afghanistan
+* 📧 **Email:** [mashallahpanahi44@gmail.com](mailto:mashallahpanahi44@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mashallah-panahi-95b49931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 🌍 **Portfolio:** https://portfolio1-omega-livid.vercel.app
+* 💬 **WhatsApp:** https://wa.me/93771464328
+* 📞 **Phone:** tel:0771464328
+* 💻 **GitHub:** https://github.com/mashallahpanahi
 
 ---
 
 ### 💻 Favorite Stack
 
-```text
-Frontend: React • Next.js • Tailwind CSS • TypeScript
-Backend : NestJS • Node.js • PostgreSQL
 ```
+Frontend: React • Next.js • Tailwind CSS • JavaScript
+Backend : NestJS • Node.js • PostgreSQL • PHP
+```
+
+---
 
 ⭐ Always learning, building, and improving.
