@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mashallah Panahi
 
-### 🚀 Full-Stack Developer
+###  Full-Stack Developer
 
 I am a passionate **Full-Stack Developer** focused on building scalable, modern, and high-performance web applications.
 
@@ -33,7 +33,7 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 
 ---
 
-## 🎯 Professional Expertise
+##  Professional Expertise
 
 * ✅ NestJS Backend Development (Advanced)
 * ✅ PostgreSQL Database Design & Optimization
@@ -45,7 +45,7 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Mashallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashallahpanahi\&show_icons=true\&theme=tokyonight)
 
@@ -64,4 +64,4 @@ I am a passionate **Full-Stack Developer** focused on building scalable, modern,
 * 💻 **GitHub:** https://github.com/mashallahpanahi
 
 
-⭐ Always learning, building, and improving.
+ Always learning, building, and improving.
